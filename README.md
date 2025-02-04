@@ -12,8 +12,3 @@ This repository contains my Python learning progress, including scripts, exercis
 - ✅ Error Handling
 - ✅ Data Structures (Lists, Tuples, Dictionaries, Sets)
 - ✅ Algorithms and Problem Solving
-
-## 🔧 How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/python-learning.git
